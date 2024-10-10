@@ -2,8 +2,9 @@
 
 
 ### Hi there 👋
-* I'm a Node.js developer in China.
-* I'm interested in Go too ...
+* I'm a developer from China.
+* I'm focus on backend.
+* Keep learning and try to enjoy everything what I do.
 
 <!--
 **blackmatch/blackmatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
